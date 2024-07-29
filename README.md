@@ -62,6 +62,3 @@ The application includes several error messages for common issues:
 
 This project is licensed under the MIT License.
 
-## Contact
-
-For more information or to contribute, please contact Shimon Ifrach at https://www.linkedin.com/in/shimon-ifrach-a022b5215/.
